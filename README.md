@@ -12,9 +12,9 @@ Evaluation
 Kaggle leaderboard standings will be determined by root mean squared error (RMSE).
 
 ## Tech Used
-1- Python
-2- Scikit Learn 
-3- Seaborn 
+- Python
+- Scikit Learn 
+- Seaborn 
 
 ## The Data
 NAME: AmesHousing.txt
